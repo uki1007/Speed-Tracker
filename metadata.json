@@ -1,0 +1,5 @@
+{
+  "name": "Internet Speed Tracker",
+  "description": "A web app that automatically measures and records your internet connection speed every 30 minutes.",
+  "requestFramePermissions": []
+}
